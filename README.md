@@ -12,6 +12,17 @@ The app lets a user enter delivery stops, choose traffic and weather conditions,
 - Shows the recommended stop order
 - Displays total distance, predicted time, and each route leg
 
+![imagealt](https://github.com/GradualRelease22/route_optimizer_with_PredictiveModeling/blob/main/RouteOpt_Github.png)
+
+![imagealt](https://github.com/GradualRelease22/route_optimizer_with_PredictiveModeling/blob/main/RouteOpt_Result_GitHub.png)
+
+
+
+
+
+
+
+
 ## Tech Stack
 
 - Python
