@@ -1,6 +1,6 @@
-# Simple Intelligent Route Optimizer 
-
-This project is a simple intelligent route optimization system built with Python and Flask.
+# My Simple Intelligent Route Optimizer 
+Hello!
+This is my project that is a simple intelligent route optimization system built with Python and Flask.
 
 The app lets a user enter delivery stops, then it predicts the estimated time for each part of the route and returns an optimized stop order.
 
@@ -36,7 +36,7 @@ A leg-by-leg route breakdown
 
 ---
 
-# How the Project Works
+# How It Works
 
 The project has two main parts:
 
